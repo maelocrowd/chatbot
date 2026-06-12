@@ -85,3 +85,9 @@ streamlit run praxa_client.py
 ```
 
 Your web browser will pop open automatically at `http://localhost:8501`, allowing you to begin chatting with your AI assistant about theatre!
+
+## 📄 License & Copyright
+
+© 2026. All rights reserved. 
+
+This project is maintained and contributed by Mael Taye Deneke. 
